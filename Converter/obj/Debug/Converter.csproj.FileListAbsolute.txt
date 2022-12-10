@@ -1,0 +1,17 @@
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\bin\Debug\SqlLiteConverter.exe.config
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\bin\Debug\SqlLiteConverter.exe
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\bin\Debug\SqlLiteConverter.pdb
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\bin\Debug\DbAccess.dll
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\bin\Debug\log4net.dll
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\bin\Debug\DbAccess.pdb
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\Converter.AuthorMessageForm.resources
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\Converter.MainForm.resources
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\Converter.TableSelectionDialog.resources
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\Converter.ViewFailureDialog.resources
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\Converter.csproj.CopyComplete
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\SqlLiteConverter.exe
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\Converter\obj\Debug\SqlLiteConverter.pdb

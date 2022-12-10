@@ -1,0 +1,9 @@
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\bin\Debug\DbAccess.dll
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\bin\Debug\DbAccess.pdb
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\bin\Debug\log4net.dll
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\obj\Debug\DbAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\obj\Debug\DbAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\obj\Debug\DbAccess.csproj.CopyComplete
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\obj\Debug\DbAccess.dll
+C:\Users\Administrator\repos\Convert-SQL-Server-to-SQLite\DbAccess\obj\Debug\DbAccess.pdb

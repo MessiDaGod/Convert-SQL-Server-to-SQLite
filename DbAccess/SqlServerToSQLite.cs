@@ -494,7 +494,7 @@ namespace DbAccess
                     catch (Exception ex)
                     {
                         _log.Error("AddSQLiteTable failed", ex);
-                        throw;
+                        continue;
                     }
                     count++;
                     CheckCancelled();
@@ -514,7 +514,7 @@ namespace DbAccess
                     catch (Exception ex)
                     {
                         _log.Error("AddSQLiteView failed", ex);
-                        throw;
+                        continue;
                     } // catch
                     count++;
                     CheckCancelled();
@@ -943,7 +943,7 @@ namespace DbAccess
                       isIdentity = ((int)reader["IDENT"]) == 1 ? true : false;
                     int length = reader["CSIZE"] != DBNull.Value ? Convert.ToInt32(reader["CSIZE"]) : 0;
 
-                    ValidateDataType(dataType);
+                    //ValidateDataType(dataType);
 
                     // Note that not all data type names need to be converted because
                     // SQLite establishes type affinity by searching certain strings
@@ -986,6 +986,7 @@ namespace DbAccess
                         else if (colDefault == "('True')")
                             colDefault = "(1)";
                     }
+                    else dataType = "VARCHAR";
 
                     colDefault = FixDefaultValueString(colDefault);
 
@@ -1081,7 +1082,8 @@ namespace DbAccess
         /// an exception.
         /// </summary>
         /// <param name="dataType">The datatype to validate.</param>
-        private static void ValidateDataType(string dataType)
+       
+        public static void ValidateDataType(string dataType)
         {
             if (dataType == "int" || dataType == "smallint" ||
                 dataType == "bit" || dataType == "float" ||
@@ -1295,7 +1297,7 @@ namespace DbAccess
                     catch (Exception ex)
                     {
                         _log.Error("AddTableTriggers failed", ex);
-                        throw;
+                        continue;
                     }
                 }
 
